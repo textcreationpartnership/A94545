@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>To the Kings most Excellent Majestie. The humble petition of the inhabitants of the county of Glocester. With their protestation to his Majestie. Whereunto is annexed Sir Edward Hales, his worthy speech in Parliament, Ian, 20. 1641. Vpon the reading of the letter, which his Majestie sent to both Houses of Parliament.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94545</idno><idno type="EEBO-CITATION">99860633</idno>
+  <idno type="VID">156388</idno>
+  <idno type="EEBO-PROQUEST">2240888005</idno>
+  
+            <idno type="STC">Wing T1540</idno>
+            <idno type="STC">Thomason E133_7</idno>
+            <idno type="STC">ESTC R19290</idno>
+            <idno type="PROQUEST">99860633</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99860633e"/>
+            <note>(EEBO-TCP ; phase 2, no. A94545)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156388)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 24:E133[7])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>To the Kings most Excellent Majestie. The humble petition of the inhabitants of the county of Glocester. With their protestation to his Majestie. Whereunto is annexed Sir Edward Hales, his worthy speech in Parliament, Ian, 20. 1641. Vpon the reading of the letter, which his Majestie sent to both Houses of Parliament.</title>
+                  <author>Hales, Edward, Sir, 1575 or 6-1654.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Thomas,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641 [i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Gloucestershire (England) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156388:1"/>
+            <pb facs="tcp:156388:1"/>
+            <p>To the Kings most Excel<g ref="char:EOLhyphen"/>LENT MAJESTIE. THE HVMBLE PETITION Of the Inhabitants of the County of <hi>Glocester.</hi> WITH THEIR PROTESTATION to his MAJESTIE. Whereunto is annexed Sir <hi>Edward Hales,</hi> his worthy Speech in PARLIAMENT, <hi>Ian.</hi> 20. 1641. Vpon the reading of the Letter, which his Majestie sent to both Houses of Parliament.</p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>John Thomas.</hi> 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:156388:2"/>
+            <pb facs="tcp:156388:2"/>
+            <head>To the Kings most ex<g ref="char:EOLhyphen"/>cellent Majestie. The Humble Petition of the Inhabitants of the County of Glocester, with the Protestation annexed.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T hath beene made knowne unto your most Sacred Majesty, and also unto the Honora<g ref="char:EOLhyphen"/>ble house of Parliament now assembled, how for a long season your poore Petiti<g ref="char:EOLhyphen"/>oners, and most Loyall Subjects, have beene most grievously burthened, and oppressed, both in their temporall, and spirituall estates, both by most grie<g ref="char:EOLhyphen"/>vous impositions and taxes, and also by extreame, and unlimited power of Eclesiasticall government, from which most grievous oppressions your Petitioners, did long age hope to have beene disburthened, and re<g ref="char:EOLhyphen"/>leased, but they find as yet small comfort, or hopes thereof, by reason of the manifold destractions, and disagrements, which have arose betweene your Sacred Majestie, and the house of Commons now assembled by the interposition, and perswasion of some ill af<g ref="char:EOLhyphen"/>fected Subjects both to your Majesties Peace and con<g ref="char:EOLhyphen"/>tent, and your Subjects security and quiet, these sug<g ref="char:EOLhyphen"/>gestions have begot and bred in your Majesty a most sinister conceit of your most loyall Subjects, wher<g ref="char:EOLhyphen"/>by they have undergone the hard burthen of your ill
+<pb facs="tcp:156388:3"/>opinion of them, which seems unto them being so loy<g ref="char:EOLhyphen"/>ally affected a most extream cause of discontent being stigmatiz'd with the marke of Disobedience, which they neuer durst conceive or think on, and now of late when we did well that all our hopes would have beene brought vnto maturity and perfection, and that we should have had an issue of our former desires presented vnto the Honourable House of Commons, your Majesty hath accused some of the Principall members thereof of Treason, whereby all proceedings are stayd, and your Petitioners hopes are now by this meanes made frustrate, so that they see no way by which they can be relieved, or have their injuries re<g ref="char:EOLhyphen"/>dressed, for by the impeachment of these men, we do conceive the Generall affaires of this Kingdome to be procrastinated and delayed, the Subject to be vn<g ref="char:EOLhyphen"/>releived, and your Majesty to be deluded. For so long as whisperers and flatterers, whose sole Aimes, reach onely to their owne Benifit, are in places of Power and dignity, we conceive very small possibility of a flourishing Kingdome; We plead not this cause led on by faction, or envie, but having beene depri<g ref="char:EOLhyphen"/>ved by the Pride of our late Prelate of the liberty of our consciences and also being burthened with heavy burthens farre beyond our abilities in Estate, we pre<g ref="char:EOLhyphen"/>sent our grievances vnto your Majesties considerati<g ref="char:EOLhyphen"/>on, not doubting but to have all our injuries addres<g ref="char:EOLhyphen"/>sed, hoping that your Majesty will be pleased to look vpon our aggrievances with a gracious eye.</p>
+            <p>May it therefore please your most Sacred Majesty to take these pr<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mise<gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap> into your most Royall considera<g ref="char:EOLhyphen"/>tion, and with all to take some Order, for the faire and legall proceedings of Parliament, where your
+<pb facs="tcp:156388:3"/>most humble Petitioners do hope to have their agre<g ref="char:EOLhyphen"/>vances heard, searched and salved, and withall that those whom your Majesty lately accused of High Treason, may enjoy their Priviledges in Parliament, to performe that respect unto their Countrey, by whose votes they were chosen for Members in this great assembly; that by this meanes the more vrgent affayres of this disquieted Realme may take effect, the Praelates by whose meanes and power our liber<g ref="char:EOLhyphen"/>ties and conscience have been much abused, may bee censured according to equity, your loyall Subjects may be relieved, and the generall Estate of this King<g ref="char:EOLhyphen"/>dome may be setled in peace and tranquility, and we shall pray. And doe here before God and the world make our Protestation, that we are not moved unto this our desire by any sinister or by respect, or that neither malice, or envy unto any particular person, or more then ordinary affection unto any cause or person hath stirred us vnto this desire, but onely our deepe aggrievances, the decay of this Kingdomes fe<g ref="char:EOLhyphen"/>licity in Trade, whereby many of your poore Pe<g ref="char:EOLhyphen"/>titioners have beene vtterly ruin'd and overthrowne, and the want of Liberty of consciences caused by the Prelates, have moved your Petitioners to move your most Sacred Majesty to the consideration of these our grievances. And we do here also declare our Loyall and faithfull intentions, that for the Gospell, our King, and the Kingdomes good, we shall bee at all times ready to hazard both our lives, Liberties, and fortunes, to the vtter most of all our endeavours, and abilities.</p>
+         </div>
+         <div type="speech">
+            <pb facs="tcp:156388:4"/>
+            <head>SIR Edward Hales, his Speech in Parliament, upon the reading of a Letter from his Majesty the 20. of <hi>Ian.</hi> 1641.</head>
+            <opener>
+               <salute>Master <hi>Speaker,</hi>
+               </salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hese propositions of his Majesty concer<g ref="char:EOLhyphen"/>ning the Liberties and priviledges of the Subject, the establishing of Religion, and the indifferent vse of such Ceremonies in the exercise thereof, as may be received, and vsed without offence, are gracious expressiōs of his Prince<g ref="char:EOLhyphen"/>ly Care and tender affection towards his good and Loyall Subjects, and his proposition for the mainte<g ref="char:EOLhyphen"/>nance and defence of his Majesties iust Prerogatives and Regall Power in his Dominions, are now to be taken into the consideration of this Honnourable House.</p>
+            <p>
+               <hi>Mr. Speaker</hi> We are here met and assembled on<g ref="char:EOLhyphen"/>ly for the defence and preservation of the Subjects and just Priviledges of the Subject, setling of true Religion, maintenance of his Majesties Royall Power and Prerogative, and the defence of the Lawes and
+<pb facs="tcp:156388:4"/>Ordinances established in this Kingdome for the good government thereof, and for the redressing the mani<g ref="char:EOLhyphen"/>fold grievances and oppressions of the Common<g ref="char:EOLhyphen"/>wealth by evill and wicked Members thereof; wee have to this porpose made already many good Laws assented to and confirmed by his sacred Majesty Vo<g ref="char:EOLhyphen"/>ted for the setling of Religion, and abolishment of superfluous Ceremonies, stood for the defence of the Liberties of the Subject for Parliaments, the Rights and Priviledges thereof, for the maintaining his Ma<g ref="char:EOLhyphen"/>jesties righfull power in his Regall Government, and as farre as in us lay endeavoured to redresse the grie<g ref="char:EOLhyphen"/>vances of the Kingdome, and to appease the differen<g ref="char:EOLhyphen"/>ces of late betweene his Majesties Kingdomes to bring the Authors and incendiaries of the same to condigne punishment, <gap reason="illegible" resp="#keyers" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd to settle Vnity and Concord amongst our selves, but the subtle and wily practices of the e<g ref="char:EOLhyphen"/>nemies and professors thereof having so farre prevailed that they have raised such distempers and distractions in the State that laying aside the former affayres we had in hand, we have beene forced against our desires and reall intentions to certifie all things amisse both in Church and State, to bend all our endeavours to prevent eminent danger now in agitation both against the Parliament and the whole State, and to remove the impediments that have hindered the same; to se<g ref="char:EOLhyphen"/>cure our owne persons from their malicious designs, and to comply with our Brethren in Scotland for the timely ayd and assistance of the distressed Protestants in Jreland. But intending I make no doubt but by the blessing of Almighty God in due time when the pre<g ref="char:EOLhyphen"/>sent
+<pb facs="tcp:156388:5"/>distempers shall be remoued to prosecute our desires, for the confirmation and conclusion of all things in agitation by this great Councell concerning the well being of Church and Common-wealth.</p>
+            <p>Therefore my humble motion is, that wee may joyne with the Lords by Petition to his Majesty therein, informing his Majesty of the causes of hinderance in our former procee<g ref="char:EOLhyphen"/>dings upon those things now propounded to our con<g ref="char:EOLhyphen"/>sideration by his Sa<g ref="char:EOLhyphen"/>cred Majesty.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
